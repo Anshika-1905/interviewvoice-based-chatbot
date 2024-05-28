@@ -1,0 +1,15 @@
+.appcanvas {
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  width: 200px;
+  bottom: 10px;
+}
+.appvide {
+  display: flex;
+  align-items: flex-end;
+}
+
+.myapp {
+  display: flex;
+}

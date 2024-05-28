@@ -1,0 +1,9 @@
+.align-face {
+  display: flex;
+  left: 10px;
+  bottom: 10px;
+  width: 200px;
+  height: 200px;
+  position: fixed;
+  z-index: 10;
+}
