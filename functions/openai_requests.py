@@ -5,8 +5,8 @@ from database import get_recent_messages
 
 
 # Retrieve Enviornment Variables
-openai.organization = config("OPEN_AI_ORG")#"org-1BIHm6hqNQdxuGnowdLhwgxv"
-openai.api_key = config("OPEN_AI_KEY")#"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"
+openai.organization = config("OPEN_AI_ORG")
+openai.api_key = config("OPEN_AI_KEY")
 
 
 # Open AI - Whisper
